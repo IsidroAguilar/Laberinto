@@ -1,3 +1,0 @@
-D:\DOCUMENTOS\Quinto Semestre\Modelado por Computadora\Parcial 3\Proyecto en equipo\ProotipoNoFuncional\ProotipoNoFuncional\bin\Debug\ProotipoNoFuncional.exe.config
-C:\Users\Carlos Alberto\Dropbox\Valdéz Velázquez Carlos Alberto 14\2 Segundo Parcial\Proyecto\Proyecto en Equipo\ProotipoNoFuncional\ProotipoNoFuncional\bin\Debug\ProotipoNoFuncional.exe.config
-C:\Users\Isidro Aguilar\Desktop\ProotipoNoFuncional\ProotipoNoFuncional\bin\Debug\ProotipoNoFuncional.exe.config
