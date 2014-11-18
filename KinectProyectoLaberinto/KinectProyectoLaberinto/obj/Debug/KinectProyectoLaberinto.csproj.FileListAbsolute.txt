@@ -19,3 +19,5 @@ D:\DOCUMENTOS\Quinto Semestre\Modelado por Computadora\Parcial 3\Proyecto en equ
 D:\DOCUMENTOS\Quinto Semestre\Modelado por Computadora\Parcial 3\Proyecto en equipo\REPO_MODELADO\KinectProyectoLaberinto\KinectProyectoLaberinto\obj\Debug\KinectProyectoLaberinto.pdb
 D:\DOCUMENTOS\Quinto Semestre\Modelado por Computadora\Parcial 3\Proyecto en equipo\REPO_MODELADO\KinectProyectoLaberinto\KinectProyectoLaberinto\obj\Debug\Login.baml
 D:\DOCUMENTOS\Quinto Semestre\Modelado por Computadora\Parcial 3\Proyecto en equipo\REPO_MODELADO\KinectProyectoLaberinto\KinectProyectoLaberinto\obj\Debug\Login.g.cs
+C:\Users\Isidro Aguilar\Source\Repos\Laberinto\KinectProyectoLaberinto\KinectProyectoLaberinto\obj\Debug\KinectProyectoLaberinto.exe
+C:\Users\Isidro Aguilar\Source\Repos\Laberinto\KinectProyectoLaberinto\KinectProyectoLaberinto\obj\Debug\KinectProyectoLaberinto.pdb
